@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using ContosoUniversity.Data;
+using ContosoUniversity.Data; 
 using Microsoft.Extensions.DependencyInjection;
 
 namespace ContosoUniversity
